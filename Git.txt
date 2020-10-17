@@ -74,4 +74,5 @@
 		git merge 分支名
 	6.删除分支
 		git branch -d 分支名
-		uuuuuu
+		uuuuuuyy
+		yy
